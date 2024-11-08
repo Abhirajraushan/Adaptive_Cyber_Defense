@@ -57,7 +57,7 @@ Anomaly Detection Process
 
 Phishing Detection Process
 Adaptive Authentication Process
-"C:\Adaptive_Cyber_Defense\ADAPTIVE.png"
+![ADAPTIVE](https://github.com/user-attachments/assets/9638ff91-803e-4ffb-8186-579edff4d1d5)
 
 
 6. Code Comments and Clean Structure
