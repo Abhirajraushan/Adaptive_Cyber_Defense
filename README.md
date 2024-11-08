@@ -25,7 +25,7 @@ The project is organized as follows:
     └── dashboard.html                # HTML template for threat dashboard
 
 
-## 🛠️ Setup Steps
+#🛠️ Setup Steps
 Follow these steps to set up and run the project:
 
 Step 1: Install Packages
@@ -50,11 +50,21 @@ Dashboard: Displays real-time threat intelligence data for security teams to res
 
 ##5. Flowcharts
 Flowcharts explaining the project flow are available to give a clear overview of the workflow:
-Overall Project Workflow
-Anomaly Detection Process
-Phishing Detection Process
-Adaptive Authentication Process
 
+Overall Project Workflow
+![WhatsApp Image 2024-11-06 at 19 56 57_482ae71c](https://github.com/user-attachments/assets/18bba497-d5fa-4d45-a061-cf0bb7fc1b95)
+
+Threat Intelligence Dashboard-Wireframe
+![WhatsApp Image 2024-11-06 at 19 53 32_8539b231](https://github.com/user-attachments/assets/9ea0996d-bed0-4aeb-90bb-4dda23277169)
+
+Anomaly Detection Process
+![ANOMALY](https://github.com/user-attachments/assets/8b3339b3-a4b8-4e18-a5e0-0c6e47499679)
+
+Phishing Detection Process
+![Phising](https://github.com/user-attachments/assets/d4811547-b45e-46f9-bfa1-1a1302cb2020)
+
+Adaptive Authentication Process
+![ADAPTIVE](https://github.com/user-attachments/assets/4f787a09-5bdb-48b1-92b2-c72c17ce4b95)
 
 
 ##6. Code Comments and Clean Structure
