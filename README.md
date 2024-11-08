@@ -52,25 +52,13 @@ Dashboard: Displays real-time threat intelligence data for security teams to res
 Flowcharts explaining the project flow are available to give a clear overview of the workflow:
 
 Overall Project Workflow
-![WhatsApp Image 2024-11-06 at 19 56 57_482ae71c](https://github.com/user-attachments/assets/18bba497-d5fa-4d45-a061-cf0bb7fc1b95)
-
 Threat Intelligence Dashboard-Wireframe
-![WhatsApp Image 2024-11-06 at 19 53 32_8539b231](https://github.com/user-attachments/assets/f20b04f0-7b32-4355-8907-c556f11ea380)
-
-
 Anomaly Detection Process
-![ANOMALY](https://github.com/user-attachments/assets/8b3339b3-a4b8-4e18-a5e0-0c6e47499679)
-
 Phishing Detection Process
-![Phising](https://github.com/user-attachments/assets/d4811547-b45e-46f9-bfa1-1a1302cb2020)
-
 Adaptive Authentication Process
-![ADAPTIVE](https://github.com/user-attachments/assets/4f787a09-5bdb-48b1-92b2-c72c17ce4b95)
 
 
 ##6. Code Comments and Clean Structure
 Each script contains minimal and concise comments for easy understanding. Code indentation and naming conventions are consistent throughout the project.
 
 
-
-![ADAPTIVE](https://github.com/user-attachments/assets/4f787a09-5bdb-48b1-92b2-c72c17ce4b95).
