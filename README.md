@@ -50,7 +50,11 @@ Dashboard: Displays real-time threat intelligence data for security teams to res
 5. Flowcharts
 Flowcharts explaining the project flow are available to give a clear overview of the workflow:
 Overall Project Workflow
+"C:\Users\Abhiraj Raushan\Downloads\WhatsApp Image 2024-11-06 at 19.56.57_482ae71c.jpg"
 Anomaly Detection Process
 Phishing Detection Process
 Adaptive Authentication Process
+
+6. Code Comments and Clean Structure
+Each script contains minimal and concise comments for easy understanding. Code indentation and naming conventions are consistent throughout the project.
 
