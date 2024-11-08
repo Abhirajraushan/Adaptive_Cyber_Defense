@@ -23,4 +23,34 @@ The project is organized as follows:
 ├── check_table.py                    # Script to check data in tables
 └── templates/
     └── dashboard.html                # HTML template for threat dashboard
+---
+## 🛠️ Setup Steps
+Follow these steps to set up and run the project:
+
+Step 1: Install Packages
+Install the required packages:
+pip install pandas scikit-learn tensorflow flask flask_s
+
+Step 2: Create Database Tables
+Run the following script to create the necessary database tables:
+python create_table.py
+
+Step 3: Run the Application
+Start the application:
+python app.py
+
+**## 4. Modules Description**
+Each module in the project has a specific function:
+Anomaly Detection: Uses an LSTM neural network to detect unusual network activity.
+Phishing Detection: Uses Random Forest to classify potential phishing or malware threats.
+Adaptive Authentication: Verifies users based on typing speed or other behavioral patterns.
+Dashboard: Displays real-time threat intelligence data for security teams to respond promptly.
+
+
+5. Flowcharts
+Flowcharts explaining the project flow are available to give a clear overview of the workflow:
+Overall Project Workflow
+Anomaly Detection Process
+Phishing Detection Process
+Adaptive Authentication Process
 
