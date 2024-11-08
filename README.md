@@ -50,7 +50,8 @@ Dashboard: Displays real-time threat intelligence data for security teams to res
 5. Flowcharts
 Flowcharts explaining the project flow are available to give a clear overview of the workflow:
 Overall Project Workflow
-"C:\Users\Abhiraj Raushan\Downloads\WhatsApp Image 2024-11-06 at 19.56.57_482ae71c.jpg"
+![WhatsApp Image 2024-11-06 at 19 56 57_482ae71c](https://github.com/user-attachments/assets/661831e5-1088-45cc-a96d-2d65543e8405)
+
 Anomaly Detection Process
 Phishing Detection Process
 Adaptive Authentication Process
