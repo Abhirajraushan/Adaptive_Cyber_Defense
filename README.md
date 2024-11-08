@@ -71,3 +71,6 @@ Adaptive Authentication Process
 ##6. Code Comments and Clean Structure
 Each script contains minimal and concise comments for easy understanding. Code indentation and naming conventions are consistent throughout the project.
 
+
+
+![ADAPTIVE](https://github.com/user-attachments/assets/4f787a09-5bdb-48b1-92b2-c72c17ce4b95).
