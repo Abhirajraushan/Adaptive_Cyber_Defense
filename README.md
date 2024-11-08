@@ -24,12 +24,17 @@ The project structure is organized as follows:
 └── templates/
     └── dashboard.html                # HTML template for threat dashboard
 
-##3. Setup Steps
+## 3. Setup Steps
+
 Follow these steps to set up and run the project:
 
-Step 1: Install Packages
+### Step 1: Install Packages
+
 Install the required packages:
+
+```bash
 pip install pandas scikit-learn tensorflow flask flask_sqlalchemy
+
 Step 2: Create Database Tables
 Run the following script to create the necessary database tables:
 
