@@ -23,7 +23,8 @@ The project is organized as follows:
 ├── check_table.py                    # Script to check data in tables
 └── templates/
     └── dashboard.html                # HTML template for threat dashboard
----
+
+
 ## 🛠️ Setup Steps
 Follow these steps to set up and run the project:
 
@@ -39,7 +40,7 @@ Step 3: Run the Application
 Start the application:
 python app.py
 
-**## 4. Modules Description**
+## 4. Modules Description
 Each module in the project has a specific function:
 Anomaly Detection: Uses an LSTM neural network to detect unusual network activity.
 Phishing Detection: Uses Random Forest to classify potential phishing or malware threats.
@@ -47,14 +48,17 @@ Adaptive Authentication: Verifies users based on typing speed or other behaviora
 Dashboard: Displays real-time threat intelligence data for security teams to respond promptly.
 
 
-5. Flowcharts
+##5. Flowcharts
 Flowcharts explaining the project flow are available to give a clear overview of the workflow:
 Overall Project Workflow
-![WhatsApp Image 2024-11-06 at 19 56 57_482ae71c](https://github.com/user-attachments/assets/661831e5-1088-45cc-a96d-2d65543e8405)
+![WhatsApp Image 2024-11-06 at 19 56 57_482ae71c](https://github.com/user-attachments/assets/e3c5fccc-e5e1-4c83-a7f3-000ad40c6488).
 
 Anomaly Detection Process
+
 Phishing Detection Process
 Adaptive Authentication Process
+![ADAPTIVE](https://github.com/user-attachments/assets/8e31613f-6e12-4c6a-b1fa-bdde74ecd212).
+
 
 6. Code Comments and Clean Structure
 Each script contains minimal and concise comments for easy understanding. Code indentation and naming conventions are consistent throughout the project.
