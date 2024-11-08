@@ -55,7 +55,8 @@ Overall Project Workflow
 ![WhatsApp Image 2024-11-06 at 19 56 57_482ae71c](https://github.com/user-attachments/assets/18bba497-d5fa-4d45-a061-cf0bb7fc1b95)
 
 Threat Intelligence Dashboard-Wireframe
-![WhatsApp Image 2024-11-06 at 19 53 32_8539b231](https://github.com/user-attachments/assets/74c49995-f832-4836-b02c-82e12ef69ef9)
+![WhatsApp Image 2024-11-06 at 19 53 32_8539b231](https://github.com/user-attachments/assets/f20b04f0-7b32-4355-8907-c556f11ea380)
+
 
 Anomaly Detection Process
 ![ANOMALY](https://github.com/user-attachments/assets/8b3339b3-a4b8-4e18-a5e0-0c6e47499679)
