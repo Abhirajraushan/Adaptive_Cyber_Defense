@@ -55,6 +55,8 @@ Overall Project Workflow
 Threat Intelligence Dashboard-Wireframe
 Anomaly Detection Process
 Phishing Detection Process
+![Phising](https://github.com/user-attachments/assets/1a0324e4-2e3e-4dc6-9daf-375d75553025)
+
 Adaptive Authentication Process
 ![ADAPTIVE](https://github.com/user-attachments/assets/08e6c0f9-b21c-43de-bf93-b07efa9f532f)
 
