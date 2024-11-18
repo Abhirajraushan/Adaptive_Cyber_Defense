@@ -56,7 +56,7 @@ Threat Intelligence Dashboard-Wireframe
 Anomaly Detection Process
 Phishing Detection Process
 Adaptive Authentication Process
-![ADAPTIVE](https://github.com/user-attachments/assets/ad3c6e34-c682-4ffd-8961-a316d8e397b0)
+"C:\Adaptive_Cyber_Defense\ADAPTIVE.png"
 
 
 
