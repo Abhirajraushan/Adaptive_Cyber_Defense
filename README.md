@@ -40,12 +40,23 @@ Step 3: Run the Application
 Start the application:
 python app.py
 
-## 4. Modules Description
-Each module in the project has a specific function:
-Anomaly Detection: Uses an LSTM neural network to detect unusual network activity.
-Phishing Detection: Uses Random Forest to classify potential phishing or malware threats.
-Adaptive Authentication: Verifies users based on typing speed or other behavioral patterns.
-Dashboard: Displays real-time threat intelligence data for security teams to respond promptly.
+📦 Module Descriptions
+Each module in this project performs a critical role in ensuring adaptive cybersecurity:
+1. Anomaly Detection:
+* Implements LSTM (Long Short-Term Memory) networks to identify unusual network activity.
+* Capable of real-time processing to detect deviations from typical behavior.
+
+2.Phishing Detection:
+* Employs a Random Forest classifier to detect phishing and malware attacks.
+* Processes and analyzes synthetic phishing/malware datasets for high accuracy.
+
+3. Adaptive Authentication:
+* Verifies users dynamically based on behavioral patterns like typing speed, mouse movements, etc.
+* Ensures minimal disruption to genuine users while enhancing security for anomalies.
+
+4. Threat Intelligence Dashboard:
+* Displays real-time data on detected threats and anomalies.
+* Provides actionable insights for security teams to mitigate risks promptly.
 
 
 ##5. Flowcharts
@@ -58,8 +69,5 @@ Phishing Detection Process
 Adaptive Authentication Process
 
 
-
-##6. Code Comments and Clean Structure
-Each script contains minimal and concise comments for easy understanding. Code indentation and naming conventions are consistent throughout the project.
 
 
